@@ -1,4 +1,5 @@
 ## poopsona
 
-![image](https://github.com/user-attachments/assets/f51f9a28-0c7d-41ab-a805-7b075f9839ef)
+![image](https://github.com/user-attachments/assets/2b0b9791-2fde-409b-9ca8-ae0c3a80637f)
+
 
