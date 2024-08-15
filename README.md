@@ -1,6 +1,5 @@
 ## poopsona
 
-![image](https://github.com/user-attachments/assets/fccca692-dcdc-4184-ac3b-8546680f75e4)
-
+![image](https://github.com/user-attachments/assets/a4658537-7d40-40a4-93a3-4cdcd627aebe)
 
 
