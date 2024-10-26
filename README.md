@@ -1,4 +1,4 @@
-## poopsona
+## 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=C0GNITION&label=ALIEN%20STAGE&color=74cacf&style=flat" alt="C0GNITION" /> </p>
 <h1 align="center">☆</h1>
