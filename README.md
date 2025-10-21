@@ -4,7 +4,7 @@
 <p align="center"> 
   <img width="150" height="20" src="https://media.discordapp.net/attachments/1299154542591606806/1339834900936785930/image.gif?ex=6810677d&is=680f15fd&hm=7e1e0765104ef366ac43acb44930de756f080408948e052356b96ff9e0d27394&=&width=225&height=30">
 <p align="center"> 
-  <img width="236" height="236" src="https://i.ibb.co/p60J2yBf/197c012113ba1f97fe76aab4e693e85c.jpg">
+  <img width="236" height="236" src="https://files.catbox.moe/z2tg2p.jpg">
 </p>
 
 
